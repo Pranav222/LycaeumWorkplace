@@ -1,3 +1,5 @@
+# ARI using for Loop
+
 import math
 def ari(filename):
     file = open(f"F:/fileopen/{filename}.txt", "r+") # enter your file path
